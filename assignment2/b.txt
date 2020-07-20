@@ -1,0 +1,5 @@
+
+    #start_state accept_states
+    q4 q5
+    q4,b -> q5
+    
